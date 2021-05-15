@@ -6,4 +6,6 @@ Kentucky's Red River Gorge National Geological Area
 
 ![Kentucky's Red River Gorge National Geological Area](basemap/rrg.pdf)
 
+![Keeneland Race Track](rrg/L7.jpg)
+
 https://ejdunl55.github.io/rrg/
