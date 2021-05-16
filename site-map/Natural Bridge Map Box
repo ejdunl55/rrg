@@ -29,18 +29,25 @@
   <div id='map'></div>
 
   <script>
+    // 💡💡💡 Change this to your Token --------------------
+    // ------------------------------------------------
     mapboxgl.accessToken = 'pk.eyJ1IjoiZWpkdW5sNTUiLCJhIjoiY2tvcTAzbzViMG1rMjMxbXBiMmJjZTNzbCJ9.DVIzntZojen_aztcGJt6cg';
+    // ------------------------------------------------
+    // ------------------------------------------------
 
     var map = new mapboxgl.Map({
       container: 'map',
 
+      // 💡💡💡 Change this to your style --------------------
+      // ------------------------------------------------
       style: 'mapbox://styles/ejdunl55/ckoqaj6qg2ijw18pqisnq761q',
-
+      // ----------------------------------------------
+      // ------------------------------------------------
 
       // 💡💡💡 Change to your location ----------------------
       // ------------------------------------------------
-      zoom: 16.51,
-      center: [-83.685289, 37.773104], 
+      zoom: 15.65,
+      center: [-83.657662, 37.817418], 
       pitch: 85,
       bearing: 80
       // ------------------------------------------------
