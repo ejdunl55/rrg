@@ -6,8 +6,8 @@
   <title>Display a map</title>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
-  <script src='mapbox://styles/ejdunl55/ckoqaj6qg2ijw18pqisnq761q'></script>
-  <link href='pk.eyJ1IjoiZWpkdW5sNTUiLCJhIjoiY2tvcTAzbzViMG1rMjMxbXBiMmJjZTNzbCJ9.DVIzntZojen_aztcGJt6cg' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' />
 
   <style>
     body {
@@ -29,20 +29,13 @@
   <div id='map'></div>
 
   <script>
-    // 💡💡💡 Change this to your Token --------------------
-    // ------------------------------------------------
-    mapboxgl.accessToken = 'pk....';
-    // ------------------------------------------------
-    // ------------------------------------------------
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZWpkdW5sNTUiLCJhIjoiY2tvcTAzbzViMG1rMjMxbXBiMmJjZTNzbCJ9.DVIzntZojen_aztcGJt6cg';
 
     var map = new mapboxgl.Map({
       container: 'map',
 
-      // 💡💡💡 Change this to your style --------------------
-      // ------------------------------------------------
-      style: 'mapbox://styles/...',
-      // ----------------------------------------------
-      // ------------------------------------------------
+      style: 'mapbox://styles/ejdunl55/ckoqaj6qg2ijw18pqisnq761q',
+
 
       // 💡💡💡 Change to your location ----------------------
       // ------------------------------------------------
