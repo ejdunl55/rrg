@@ -10,4 +10,6 @@ Kentucky's Red River Gorge National Geological Area
 
 ![Keeneland Race Track Sequence](L7race.gif)
 
+![Natural Bridge Map Box](site-map/Natural%20Bridge%20Map%20Box)
+
 https://ejdunl55.github.io/rrg/
