@@ -24,11 +24,11 @@
     <h1>Hello World!</h1>
     <h2>Take a tour of Kentucky</h2>
 
-    <iframe title="Kentucky Spots" width="1024" height="576" src="https://cesium.com/ion/stories/viewer/?id=cb1efc29-565a-4f84-804a-68d0eed87200" frameborder="0" allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <!-- 💡💡💡 paste embed code below -->
 
-    <iframe title="Kentucky spots" width="1024" height="576"
-      src="https://cesium.com/ion/stories/viewer/?id=0e1e55df-95ef-490b-9958-25d356d0378a" frameborder="0"
-      allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="Keeneland Race Track" width="1024" height="576" 
+     src="https://cesium.com/ion/stories/viewer/?id=2dc3b6a5-7d8e-493a-9935-1abf1d783c3e" frameborder="0"
+     allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   
     </section>
 </body>
